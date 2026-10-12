@@ -76,7 +76,6 @@
 | Project | Tech Stack | Highlights |
 | :--- | :--- | :--- |
 | **🤖 [Nexus-COO](https://github.com/bhumibisen12)** | `Python`, `LangGraph`, `OpenRouter API`, `Streamlit`, `SQLite3` | Autonomous supply-chain AI agent generating PO recommendations & supplier emails, cutting stockouts by 15 items/week. |
-| **🛡️ [SafeHer](https://github.com/bhumibisen12)** | `Android (Kotlin)`, `Google Maps SDK`, `Firebase`, `MongoDB Atlas` | Context-aware women's safety app with weighted multi-modal threat scoring (motion, audio, route alerts). |
 | **📚 [AI Student Assistant](https://github.com/bhumibisen12/AI-Student-Assistant)** | `Python`, `Groq API`, `Llama 3.1 8B`, `PyPDF`, `STT/TTS` | Multi-module academic assistant featuring PDF summarization, voice interaction, notes, and timetable scheduling. |
 | **⚡ [PowerPredict-AI](https://github.com/bhumibisen12/PowerPredict-AI)** | `Python`, `Machine Learning`, `Scikit-learn`, `HTML/JS` | End-to-end predictive energy analytics system with real-time prediction and dashboard interface. |
 
