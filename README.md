@@ -91,18 +91,6 @@
 
 ---
 
-### 📈 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhumibisen12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhumibisen12&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhumibisen12&theme=tokyonight&hide_border=true" width="96%" alt="GitHub Streak" />
-</div>
-
----
 
 <div align="center">
   ⭐ <i>Thanks for visiting my profile! Feel free to connect or collaborate.</i>
