@@ -1,24 +1,17 @@
-<div align="center">
-  <!-- Dynamic Animated Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,24,38&height=220&section=header&text=Bhumeshwari%20Bisen&fontSize=42&fontAlignY=36&desc=AI%2FML%20Engineer%20%7C%20Agentic%20AI%20%26%20Data%20Science%20Specialist&descFontSize=18&descAlignY=62&descAlign=50&animation=fadeIn" width="100%"/>
+# 👩‍💻 Hi there, I'm Bhumeshwari Bisen! 👋
+### 🚀 AI/ML Engineer | Agentic AI & Data Science Specialist
+Indore, Madhya Pradesh, India
 
-  <!-- Typing Animation Subtitle -->
-  <a href="https://github.com/bhumibisen12">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=61AFEF&center=true&vCenter=true&width=650&lines=B.Tech+Data+Science+Student;Building+Agentic+AI+%26+LLM-Powered+Systems;End-to-End+Machine+Learning+Pipelines;Top+10+Finalist+%40+National+CyberShield+Hackathon" alt="Typing SVG" />
-  </a>
-
-  <p align="center">
-    <a href="https://www.linkedin.com/in/bhumeshwari-bisen-ds"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:bhumibisen129@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://github.com/bhumibisen12"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-    <img src="https://img.shields.io/badge/Location-Indore%2C%20India-blue?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
-  </p>
-</div>
+<p align="left">
+  <a href="https://www.linkedin.com/in/bhumeshwari-bisen-ds"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:bhumibisen129@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/bhumibisen12"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
 ---
 
 ### 💡 About Me
-- 🔭 **Current Role:** AI/ML Intern at **Detagenix Pvt. Ltd.** (Working on CRM predictive analytics & sales forecasting with CatBoost Regressor).
+- 🔭 **Current Role:** AI/ML Intern at **Detagenix Pvt. Ltd.** (CRM predictive analytics & sales forecasting with CatBoost Regressor).
 - 🎓 **Education:** Pursuing **B.Tech in Data Science** at *Indore Institute of Science and Technology* (2023 – 2027).
 - 🤖 **Core Focus:** Building **Agentic AI systems, RAG (Retrieval-Augmented Generation), LLM workflows**, and full-cycle machine learning pipelines.
 - 🏆 **Hackathon Finalist:** Top 10 Finalist in **National CyberShield Hackathon 2025** (CIIS / SBI).
@@ -88,6 +81,15 @@
 - 🏅 **Great Learning**: Convolutional Neural Networks & Power BI Data Visualization
 - 🌟 **TEDxIITIndore**: Campus Ambassador (Feb 2026)
 - 🏆 **National CyberShield Hackathon 2025**: Top 10 Finalist (CIIS, Sponsored by SBI)
+
+---
+
+### 📈 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bhumibisen12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhumibisen12&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+</div>
 
 ---
 
