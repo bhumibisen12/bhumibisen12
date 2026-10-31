@@ -18,7 +18,7 @@
 ---
 
 ### 💡 About Me
-- 🔭 **Current Role:** AI/ML Intern at **Detagenix Pvt. Ltd.** (Working on CRM predictive analytics & sales forecasting with CatBoost Regressor).
+- 🔭 **Current Role:** AI/ML Intern at **Detagenix Pvt. Ltd.** 
 - 🎓 **Education:** Pursuing **B.Tech in Data Science** at *Indore Institute of Science and Technology* (2023 – 2027).
 - 🤖 **Core Focus:** Building **Agentic AI systems, RAG (Retrieval-Augmented Generation), LLM workflows**, and full-cycle machine learning pipelines.
 - 🏆 **Hackathon Finalist:** Top 10 Finalist in **National CyberShield Hackathon 2025** (CIIS / SBI).
